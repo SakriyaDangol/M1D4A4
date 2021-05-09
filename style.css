@@ -38,6 +38,12 @@
     line-height: 30px;
 }
 
+.assign-end{
+    background: rgb(238,238,238);
+    margin: auto;
+    width: 100%;
+}
+
 h1{
     text-align: center;
     padding-top: 33px;
